@@ -14,7 +14,27 @@ width: 30%;
 .content-item-right{
     margin-left: 50%;
 }
+.content-item-left{
+    margin-right: 50%;
+}
 .content-item-title{
     margin-left: 25%;
     margin-right: 25%;
+}
+.subtitle{
+    color: lightslategray;
+    color: transparent 10%;
+}
+.title{
+    color: black;
+}
+.resume-education-title {
+    margin-left: 42%;
+    margin-right: 33%;
+}
+div{
+    outline: 1px solid black;
+}
+section{
+    outline: 1px solid red;
 }
